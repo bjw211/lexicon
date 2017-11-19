@@ -1,9 +1,6 @@
 package com.github.smartbooks;
 
-import java.io.File;
-import java.io.FileFilter;
-import java.io.IOException;
-import java.io.RandomAccessFile;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.LinkOption;
 import java.nio.file.Paths;
@@ -21,6 +18,10 @@ public class ParseSogo {
 
     public static void main(String[] args) throws Exception {
 
+        urlDecoding();
+
+        if (true) return;
+
         String inputDirectory = "E:\\github\\lexicon\\data\\scel";
 
         File inputFile = new File(inputDirectory);
@@ -36,6 +37,32 @@ public class ParseSogo {
 
             sogou(itemInput, itemOutput, false);
         }
+    }
+
+    public static void urlDecoding() {
+        String input = "E:\\github\\lexicon\\data\\scel.txt";
+        String output = "E:\\github\\lexicon\\data\\scel.decode.txt";
+
+        try {
+
+            OutputStreamWriter sw = new OutputStreamWriter(new FileOutputStream(output));
+
+            BufferedReader br = new BufferedReader(new FileReader(input));
+            String line = null;
+            while ((line = br.readLine()) != null) {
+                if (line.trim().length() > 0) {
+                    line = java.net.URLDecoder.decode(line, "utf-8");
+                    sw.write(String.format("%s\n", line));
+                }
+            }
+            br.close();
+
+            sw.flush();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 
     /**
