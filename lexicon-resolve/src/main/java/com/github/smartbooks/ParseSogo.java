@@ -1,6 +1,7 @@
 package com.github.smartbooks;
 
 import java.io.File;
+import java.io.FileFilter;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.file.Files;
@@ -20,10 +21,21 @@ public class ParseSogo {
 
     public static void main(String[] args) throws Exception {
 
-        String inputScel = "E:\\github\\lexicon\\data\\scel\\中国高等院校（大学）大全【官方推荐】.scel";
-        String outputScelText = "E:\\github\\lexicon\\data\\scel\\中国高等院校（大学）大全【官方推荐】.scel.txt";
+        String inputDirectory = "E:\\github\\lexicon\\data\\scel";
 
-        sogou(inputScel, outputScelText, false);
+        File inputFile = new File(inputDirectory);
+
+        File[] files = inputFile.listFiles(pathname -> pathname.getName().endsWith(".scel"));
+
+        for (int i = 0; i < files.length; i++) {
+            String itemInput = files[i].toURI().getPath().replace("/", "\\\\");
+            itemInput = itemInput.substring(2, itemInput.length());
+            String itemOutput = itemInput + ".txt";
+
+            System.out.println(String.format("%s\r\n%s", itemInput, itemOutput));
+
+            sogou(itemInput, itemOutput, false);
+        }
     }
 
     /**
