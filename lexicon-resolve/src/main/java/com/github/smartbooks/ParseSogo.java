@@ -20,59 +20,83 @@ public class ParseSogo {
 
     public static void main(String[] args) throws Exception {
 
-        urlDecoding();
+        //urlDecoding();
+        //if (true) return;
 
-        if (true) return;
-
-        String inputDirectory = "E:\\github\\lexicon\\data\\scel";
+        String inputDirectory = "D:\\github-source\\lexicon\\data\\scel";
 
         File inputFile = new File(inputDirectory);
 
         File[] files = inputFile.listFiles(pathname -> pathname.getName().endsWith(".scel"));
 
         for (int i = 0; i < files.length; i++) {
-            String itemInput = files[i].toURI().getPath().replace("/", "\\\\");
-            itemInput = itemInput.substring(2, itemInput.length());
-            String itemOutput = itemInput + ".txt";
+            try {
+                String itemInput = files[i].toURI().getPath().replace("/", "\\\\");
+                itemInput = itemInput.substring(2, itemInput.length());
+                String itemOutput = itemInput + ".txt";
 
-            System.out.println(String.format("%s\r\n%s", itemInput, itemOutput));
+                System.out.println(String.format("%s\r\n%s", itemInput, itemOutput));
 
-            sogou(itemInput, itemOutput, false);
+                if (new File(itemOutput).exists() == false) {
+                    sogou(itemInput, itemOutput, false);
+                }
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 
     public static void urlDecoding() {
-        String input = "E:\\github\\lexicon\\data\\scel.txt";
-        String output = "E:\\github\\lexicon\\data\\scel.decode.txt";
+
+        String input = "D:\\github-source\\lexicon\\data\\scel.txt";
+        String output = "D:\\github-source\\lexicon\\data\\scel.decode.txt";
+        String dicSaveDir = "D:\\github-source\\lexicon\\data\\scel";
 
         try {
+
+            File outputFile = new File(output);
+            if (outputFile.exists()) {
+                outputFile.delete();
+            }
 
             OutputStreamWriter sw = new OutputStreamWriter(new FileOutputStream(output));
 
             BufferedReader br = new BufferedReader(new FileReader(input));
-            String line = null;
-            while ((line = br.readLine()) != null) {
-                if (line.trim().length() > 0) {
-                    line = java.net.URLDecoder.decode(line, "utf-8");
-                    sw.write(String.format("%s\n", line));
-
-                    String filename = line.split("=")[2] + ".scel";
-
+            String lineUrl = null;
+            while ((lineUrl = br.readLine()) != null) {
+                if (lineUrl.trim().length() > 0) {
                     try {
-                        downLoadFromUrl(line, filename, "E:\\github\\lexicon\\data\\scel");
+
+                        String url = java.net.URLDecoder.decode(lineUrl, "utf-8");
+
+                        sw.write(String.format("%s\n", url));
+
+                        String dicFileName = System.currentTimeMillis() + ".scel";
+                        String[] urlArray = url.split("=");
+                        if (urlArray.length >= 3) {
+                            dicFileName = urlArray[2]
+                                    .replace("/", "")
+                                    .replace("*", "")
+                                    .replace("'", "")
+                                    .replace("\\", "") + ".scel";
+                        }
+
+                        if (new File(dicSaveDir + "\\" + dicFileName).exists() == false) {
+                            downLoadFromUrl(lineUrl, dicFileName, dicSaveDir);
+                        }
+
                     } catch (Exception e) {
                         e.printStackTrace();
+                        System.out.println(lineUrl);
                     }
                 }
             }
             br.close();
-
             sw.flush();
-
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 
     /**
@@ -107,7 +131,7 @@ public class ParseSogo {
                 String word = list.get(i);
                 String wordPinYin = entry.getKey();
 
-                System.out.println(String.format("word:%s pinyin:%s", word, wordPinYin));
+                //System.out.println(String.format("word:%s pinyin:%s", word, wordPinYin));
 
                 raf.seek(raf.getFilePointer());
                 raf.write(String.format("%s,%s\n", word, wordPinYin).getBytes());//写入txt文件
