@@ -1,0 +1,5 @@
+汉语,han'yu
+韩语,han'yu
+日语,ri'yu
+泰语,tai'yu
+英语,ying'yu

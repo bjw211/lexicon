@@ -1,0 +1,9 @@
+垂直升降,chui'zhi'sheng'jiang
+垂直循环,chui'zhi'xun'huan
+多层循环,duo'ceng'xun'huan
+巷道堆垛,hang'dao'dui'duo
+简易升降,jian'yi'sheng'jiang
+平面循环,ping'mian'xun'huan
+平面移动,ping'mian'yi'dong
+汽车升降机,qi'che'sheng'jiang'ji
+升降横移,sheng'jiang'heng'yi

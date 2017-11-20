@@ -1,0 +1,6 @@
+单道地震数据,dan'dao'di'zhen'shu'ju
+地震数据,di'zhen'shu'ju
+多道地震数据,duo'dao'di'zhen'shu'ju
+匹配追踪算法,pi'pei'zhui'zong'suan'fa
+数据,shu'ju
+正交匹配追踪算法,zheng'jiao'pi'pei'zhui'zong'suan'fa

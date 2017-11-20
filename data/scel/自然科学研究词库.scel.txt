@@ -1,0 +1,10 @@
+白洞,bai'dong
+虫洞,chong'dong
+黑洞,hei'dong
+黑子,hei'zi
+环球市轨道卫星,huan'qiu'shi'gui'dao'wei'xing
+空间,kong'jian
+空间站,kong'jian'zhan
+太阳,tai'yang
+卫星,wei'xing
+月球,yue'qiu

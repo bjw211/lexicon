@@ -1,0 +1,13 @@
+苯环,ben'huan
+第一电离势,di'yi'dian'li'shi
+负一价,fu'yi'jia
+甲基,jia'ji
+甲烷,jia'wan
+卤族元素,lu'zu'yuan'su
+羟基,qiang'ji
+三氧化二氮,san'yang'hua'er'dan
+五氧化二氮,wu'yang'hua'er'dan
+一价,yi'jia
+乙炔,yi'que
+一氧化二氮,yi'yang'hua'er'dan
+正二价,zheng'er'jia

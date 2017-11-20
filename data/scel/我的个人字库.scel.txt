@@ -1,0 +1,6 @@
+厨房,chu'fang
+瓷砖,ci'zhuan
+家具,jia'ju
+家装,jia'zhuang
+客厅,ke'ting
+水泥,shui'ni

@@ -1,0 +1,9 @@
+博学湖,bo'xue'hu
+大食堂,da'shi'tang
+公卫楼,gong'wei'lou
+口腔医学,kou'qiang'yi'xue
+临床医学,lin'chuang'yi'xue
+图书馆,tu'shu'guan
+肖纯凌,xiao'chun'ling
+小食堂,xiao'shi'tang
+预防医学,yu'fang'yi'xue

@@ -1,0 +1,12 @@
+比热容,bi're'rong
+柴油机,chai'you'ji
+分子动能,fen'zi'dong'neng
+分子势能,fen'zi'shi'neng
+内能,nei'neng
+排气,pai'qi
+汽油机,qi'you'ji
+热传递,re'chuan'di
+热值,re'zhi
+吸气,xi'qi
+压缩,ya'suo
+做功,zuo'gong

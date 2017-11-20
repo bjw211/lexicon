@@ -1,0 +1,14 @@
+瓣宽,ban'kuan
+波束宽度,bo'shu'kuan'du
+第一上旁瓣,di'yi'shang'pang'ban
+反射板,fan'she'ban
+方向图,fang'xiang'tu
+极化,ji'hua
+交叉极化,jiao'cha'ji'hua
+馈线,kui'xian
+零点填充,ling'dian'tian'chong
+上旁瓣,shang'pang'ban
+网络,wang'luo
+折弯边,zhe'wan'bian
+阵子,zhen'zi
+主馈线,zhu'kui'xian

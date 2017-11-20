@@ -1,0 +1,15 @@
+分度头,fen'du'tou
+机夹刀片,ji'jia'dao'pian
+加工中心,jia'gong'zhong'xin
+进给率,jin'gei'lv
+螺纹,luo'wen
+逆铣,ni'xi
+数控,shu'kong
+顺铣,shun'xi
+钨钢,wu'gang
+铣床,xi'chuang
+铣刀,xi'dao
+系统,xi'tong
+右刀补,you'dao'bu
+主轴,zhu'zhou
+左刀补,zuo'dao'bu

@@ -1,0 +1,11 @@
+波浪反射,bo'lang'fan'she
+波浪绕射,bo'lang'rao'she
+波浪周期,bo'lang'zhou'qi
+海岸工程,hai'an'gong'cheng
+护岸,hu'an
+护坡,hu'po
+浅堤,qian'di
+浅水变形,qian'shui'bian'xing
+数学模型,shu'xue'mo'xing
+通航条件,tong'hang'tiao'jian
+物理模型,wu'li'mo'xing

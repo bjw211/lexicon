@@ -1,0 +1,10 @@
+保健品,bao'jian'pin
+跌打损伤,die'da'sun'shang
+儿科用药,er'ke'yong'yao
+妇科用药,fu'ke'yong'yao
+感冒,gan'mao
+抗生素,kang'sheng'su
+胃肠道用药,wei'chang'dao'yong'yao
+心脑血管用药,xin'nao'xue'guan'yong'yao
+医疗器械,yi'liao'qi'xie
+止咳化痰,zhi'ke'hua'tan

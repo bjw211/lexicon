@@ -1,0 +1,16 @@
+不可压缩流体,bu'ke'ya'suo'liu'ti
+点汇,dian'hui
+点涡,dian'wo
+点源,dian'yuan
+定常流动,ding'chang'liu'dong
+非定常流动,fei'ding'chang'liu'dong
+连续性方程,lian'xu'xing'fang'cheng
+流函数,liu'han'shu
+流线方程,liu'xian'fang'cheng
+粘性流体,nian'xing'liu'ti
+偶极流,ou'ji'liu
+速度场,su'du'chang
+速度势函数,su'du'shi'han'shu
+无旋流动,wu'xuan'liu'dong
+有旋流动,you'xuan'liu'dong
+滞止点,zhi'zhi'dian

@@ -1,0 +1,5 @@
+高中,gao'zhong
+广东,guang'dong
+学生,xue'sheng
+学校,xue'xiao
+作业,zuo'ye

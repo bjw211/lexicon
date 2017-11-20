@@ -1,0 +1,16 @@
+电话,dian'hua
+犯罪嫌疑人,fan'zui'xian'yi'ren
+犯罪嫌疑人权利义务告知书,fan'zui'xian'yi'ren'quan'li'yi'wu'gao'zhi'shu
+户籍地,hu'ji'di
+警官证,jing'guan'zheng
+勘验笔录,kan'yan'bi'lu
+林木采伐许可证,lin'mu'cai'fa'xu'ke'zheng
+年龄,nian'ling
+权利义务告知书,quan'li'yi'wu'gao'zhi'shu
+审批手续,shen'pi'shou'xu
+事情经过,shi'qing'jing'guo
+现场情况,xian'chang'qing'kuang
+姓名,xing'ming
+许可证,xu'ke'zheng
+职业,zhi'ye
+住址,zhu'zhi

@@ -1,0 +1,15 @@
+棒控棒位,bang'kong'bang'wei
+北京核仪器厂,bei'jing'he'yi'qi'chang
+定标器,ding'biao'qi
+堆内测量,dui'nei'ce'liang
+堆外测量,dui'wai'ce'liang
+符合与反符合,fu'he'yu'fan'fu'he
+辐射,fu'she
+核测,he'ce
+核辐射,he'fu'she
+计数器,ji'shu'qi
+脉冲,mai'chong
+驱动机构,qu'dong'ji'gou
+中核北京核仪器厂,zhong'he'bei'jing'he'yi'qi'chang
+中子通量,zhong'zi'tong'liang
+中子注量率,zhong'zi'zhu'liang'lv

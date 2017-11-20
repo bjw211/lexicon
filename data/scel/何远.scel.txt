@@ -1,0 +1,5 @@
+编译,bian'yi
+处理,chu'li
+开发,kai'fa
+设计,she'ji
+执行,zhi'xing

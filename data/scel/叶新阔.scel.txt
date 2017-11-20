@@ -1,0 +1,7 @@
+编辑,bian'ji
+电视,dian'shi
+广播,guang'bo
+记者,ji'zhe
+摄像,she'xiang
+摄影,she'ying
+新闻,xin'wen

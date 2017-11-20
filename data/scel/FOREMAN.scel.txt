@@ -1,0 +1,9 @@
+泊位,bo'wei
+舱盖,cang'gai
+槽位,cao'wei
+带缆,dai'lan
+花篮,hua'lan
+拉绳,la'sheng
+七字锁,qi'zi'suo
+桥锁,qiao'suo
+双拨锁,shuang'bo'suo

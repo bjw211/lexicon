@@ -1,0 +1,5 @@
+财经,cai'jing
+化学工程,hua'xue'gong'cheng
+机械电子,ji'xie'dian'zi
+教育,jiao'yu
+生命科技,sheng'ming'ke'ji

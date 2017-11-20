@@ -1,0 +1,7 @@
+工程部,gong'cheng'bu
+工程技术部,gong'cheng'ji'shu'bu
+计划物控部,ji'hua'wu'kong'bu
+品管部,pin'guan'bu
+品质部,pin'zhi'bu
+生产部,sheng'chan'bu
+试产通知,shi'chan'tong'zhi

@@ -1,0 +1,7 @@
+餐厅,can'ting
+教学楼,jiao'xue'lou
+篮球场,lan'qiu'chang
+琴湖,qin'hu
+宿舍楼,su'she'lou
+田径场,tian'jing'chang
+图书馆,tu'shu'guan

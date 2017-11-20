@@ -1,0 +1,5 @@
+鼓楼区,gu'lou'qu
+海州区,hai'zhou'qu
+淮海东路,huai'hai'dong'lu
+泉山区,quan'shan'qu
+铜山区,tong'shan'qu

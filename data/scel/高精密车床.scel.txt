@@ -1,0 +1,9 @@
+板牙,ban'ya
+尺寸,chi'cun
+高度,gao'du
+公差,gong'cha
+攻牙,gong'ya
+计算机数值控制,ji'suan'ji'shu'zhi'kong'zhi
+螺纹,luo'wen
+丝攻,si'gong
+直径,zhi'jing

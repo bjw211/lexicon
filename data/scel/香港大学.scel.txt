@@ -1,0 +1,5 @@
+大学,da'xue
+广东话,guang'dong'hua
+香港,xiang'gang
+香港大学,xiang'gang'da'xue
+中国香港,zhong'guo'xiang'gang

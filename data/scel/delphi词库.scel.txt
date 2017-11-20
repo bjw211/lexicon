@@ -1,0 +1,5 @@
+按钮,an'niu
+标签,biao'qian
+窗体,chuang'ti
+列表框,lie'biao'kuang
+文本框,wen'ben'kuang

@@ -1,0 +1,15 @@
+打浆度,da'jiang'du
+多元合金磨片,duo'yuan'he'jin'mo'pian
+合金磨片,he'jin'mo'pian
+华严,hua'yan
+华严磨片,hua'yan'mo'pian
+叩后,kou'hou
+叩解度,kou'jie'du
+叩前,kou'qian
+南通,nan'tong
+南通华严,nan'tong'hua'yan
+盘磨,pan'mo
+偏粘状,pian'zhan'zhuang
+双盘磨,shuang'pan'mo
+游离度,you'li'du
+锥磨,zhui'mo

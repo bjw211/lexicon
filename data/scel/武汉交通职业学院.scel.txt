@@ -1,0 +1,5 @@
+交通,jiao'tong
+交通职业学院,jiao'tong'zhi'ye'xue'yuan
+武汉,wu'han
+学校,xue'xiao
+专科,zhuan'ke

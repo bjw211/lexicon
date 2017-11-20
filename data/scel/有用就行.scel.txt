@@ -1,0 +1,7 @@
+建筑,jian'zhu
+科学,ke'xue
+历史,li'shi
+人文,ren'wen
+神话,shen'hua
+生活,sheng'huo
+自然,zi'ran

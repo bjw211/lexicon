@@ -1,0 +1,7 @@
+分析,fen'xi
+公文,gong'wen
+化学,hua'xue
+环保,huan'bao
+环境监测,huan'jing'jian'ce
+项目,xiang'mu
+政府,zheng'fu

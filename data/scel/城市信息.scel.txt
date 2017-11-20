@@ -1,0 +1,5 @@
+宝鸡,bao'ji
+汉中,han'zhong
+西安,xi'an
+延安,yan'an
+榆林,yu'lin

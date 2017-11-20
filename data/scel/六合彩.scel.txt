@@ -1,0 +1,7 @@
+红单,hong'dan
+红双,hong'shuang
+蓝单,lan'dan
+蓝双,lan'shuang
+绿单,lv'dan
+绿双,lv'shuang
+中率,zhong'lv

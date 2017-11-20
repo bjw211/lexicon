@@ -1,0 +1,6 @@
+二次项,er'ci'xiang
+零次项,ling'ci'xiang
+三次项,san'ci'xiang
+四次项,si'ci'xiang
+五次项目,wu'ci'xiang'mu
+一次项,yi'ci'xiang

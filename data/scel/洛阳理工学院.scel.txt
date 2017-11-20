@@ -1,0 +1,6 @@
+洛阳,luo'yang
+洛阳大学,luo'yang'da'xue
+洛阳工业高专,luo'yang'gong'ye'gao'zhuan
+洛阳理工学院,luo'yang'li'gong'xue'yuan
+洛阳师范学院,luo'yang'shi'fan'xue'yuan
+洛阳市工业高等专科学院,luo'yang'shi'gong'ye'gao'deng'zhuan'ke'xue'yuan

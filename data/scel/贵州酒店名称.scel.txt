@@ -1,0 +1,16 @@
+安顺市黄果树金谷瀑布山庄,an'shun'shi'huang'guo'shu'jin'gu'pu'bu'shan'zhuang
+贵阳保利国际温泉酒店,gui'yang'bao'li'guo'ji'wen'quan'jiu'dian
+贵阳保利瑞廷温泉酒店,gui'yang'bao'li'rui'ting'wen'quan'jiu'dian
+贵阳花溪青岩堡邦臣度假酒店,gui'yang'hua'xi'qing'yan'bao'bang'chen'du'jia'jiu'dian
+贵阳南天酒店,gui'yang'nan'tian'jiu'dian
+贵阳世纪金源大饭店,gui'yang'shi'ji'jin'yuan'da'fan'dian
+贵阳喜来登贵航酒店,gui'yang'xi'lai'deng'gui'hang'jiu'dian
+贵阳中天凯悦酒店,gui'yang'zhong'tian'kai'yue'jiu'dian
+贵州嘉华酒店贵阳,gui'zhou'jia'hua'jiu'dian'gui'yang
+贵州六盘水时代假日酒店,gui'zhou'liu'pan'shui'shi'dai'jia'ri'jiu'dian
+贵州铭都酒店贵阳,gui'zhou'ming'dou'jiu'dian'gui'yang
+贵州省仁怀市天豪大酒店仁怀市,gui'zhou'sheng'ren'huai'shi'tian'hao'da'jiu'dian'ren'huai'shi
+贵州天怡豪生大酒店贵阳,gui'zhou'tian'yi'hao'sheng'da'jiu'dian'gui'yang
+金州翠湖宾馆兴义,jin'zhou'cui'hu'bin'guan'xing'yi
+酒店名称,jiu'dian'ming'cheng
+自动化测试酒店,zi'dong'hua'ce'shi'jiu'dian

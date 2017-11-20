@@ -1,0 +1,10 @@
+电话号码空号,dian'hua'hao'ma'kong'hao
+电话无人接听,dian'hua'wu'ren'jie'ting
+客户拒接啊,ke'hu'ju'jie'a
+来电提醒功能,lai'dian'ti'xing'gong'neng
+手机关机啊,shou'ji'guan'ji'a
+手机停机啊,shou'ji'ting'ji'a
+通话限制啊,tong'hua'xian'zhi'a
+暂时无法接通,zan'shi'wu'fa'jie'tong
+暂停服务啊,zan'ting'fu'wu'a
+正在通话中啊,zheng'zai'tong'hua'zhong'a

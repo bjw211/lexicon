@@ -1,0 +1,6 @@
+病历,bing'li
+病历夹,bing'li'jia
+口袋,kou'dai
+文献,wen'xian
+医口袋,yi'kou'dai
+医学文献,yi'xue'wen'xian

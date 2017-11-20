@@ -1,0 +1,5 @@
+车型,che'xing
+改装,gai'zhuang
+皮卡,pi'ka
+汽车,qi'che
+实用,shi'yong

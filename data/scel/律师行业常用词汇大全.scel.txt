@@ -1,0 +1,9 @@
+法规,fa'gui
+法律,fa'lv
+律师,lv'shi
+民商,min'shang
+省高级人民法院,sheng'gao'ji'ren'min'fa'yuan
+市中级人民法院,shi'zhong'ji'ren'min'fa'yuan
+司法,si'fa
+司法解释,si'fa'jie'shi
+最高人民法院,zui'gao'ren'min'fa'yuan

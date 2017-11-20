@@ -1,0 +1,5 @@
+动物园,dong'wu'yuan
+南湖公园,nan'hu'gong'yuan
+南宁,nan'ning
+青秀山,qing'xiu'shan
+人民公园,ren'min'gong'yuan

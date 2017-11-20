@@ -1,0 +1,7 @@
+电源,dian'yuan
+金手指,jin'shou'zhi
+内存条,nei'cun'tiao
+显卡,xian'ka
+硬盘,ying'pan
+主板,zhu'ban
+主机,zhu'ji

@@ -1,0 +1,13 @@
+北区,bei'qu
+博文楼,bo'wen'lou
+道义,dao'yi
+第二生活区,di'er'sheng'huo'qu
+第三生活区,di'san'sheng'huo'qu
+第一生活区,di'yi'sheng'huo'qu
+东区,dong'qu
+汇文楼,hui'wen'lou
+旅游管理学院,lv'you'guan'li'xue'yuan
+南区,nan'qu
+沈阳丝袜大学,shen'yang'si'wa'da'xue
+新东区,xin'dong'qu
+知行楼,zhi'xing'lou

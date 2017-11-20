@@ -1,0 +1,7 @@
+地理,di'li
+化学,hua'xue
+历史,li'shi
+天文,tian'wen
+物理,wu'li
+植物,zhi'wu
+中药,zhong'yao

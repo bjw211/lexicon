@@ -1,0 +1,16 @@
+崇师楼,chong'shi'lou
+灯光球场,deng'guang'qiu'chang
+二食堂,er'shi'tang
+呼兰区,hu'lan'qu
+呼兰校区,hu'lan'xiao'qu
+计算机中心,ji'suan'ji'zhong'xin
+江北,jiang'bei
+江南校区,jiang'nan'xiao'qu
+理工一,li'gong'yi
+梦溪宾馆,meng'xi'bin'guan
+梦溪食堂,meng'xi'shi'tang
+人文楼,ren'wen'lou
+社科楼,she'ke'lou
+师大路,shi'da'lu
+小蓝,xiao'lan
+行知楼,xing'zhi'lou

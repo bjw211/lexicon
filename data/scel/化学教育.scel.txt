@@ -1,0 +1,7 @@
+化学,hua'xue
+醛基,quan'ji
+羧基,suo'ji
+焰色反应,yan'se'fan'ying
+颜色,yan'shai
+有机物,you'ji'wu
+酯基,zhi'ji

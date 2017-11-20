@@ -1,0 +1,6 @@
+美容,mei'rong
+医疗,yi'liao
+医疗美容,yi'liao'mei'rong
+医疗美容医院,yi'liao'mei'rong'yi'yuan
+医疗医院,yi'liao'yi'yuan
+医院,yi'yuan

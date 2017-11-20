@@ -1,0 +1,6 @@
+共漏放大器,gong'lou'fang'da'qi
+共栅放大器,gong'shan'fang'da'qi
+共源放大器,gong'yuan'fang'da'qi
+共源共栅放大器,gong'yuan'gong'shan'fang'da'qi
+晶体管,jing'ti'guan
+源级跟随器,yuan'ji'gen'sui'qi

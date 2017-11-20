@@ -1,0 +1,7 @@
+半桥,ban'qiao
+变换器,bian'huan'qi
+反激,fan'ji
+全桥,quan'qiao
+推挽,tui'wan
+线径,xian'jing
+正激,zheng'ji

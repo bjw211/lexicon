@@ -1,0 +1,5 @@
+超市,chao'shi
+江苏,jiang'su
+五环,wu'huan
+五环超市,wu'huan'chao'shi
+中国,zhong'guo

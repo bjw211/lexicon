@@ -1,0 +1,14 @@
+白皮松,bai'pi'song
+赤松,chi'song
+臭冷杉,chou'leng'shan
+刺柏,ci'bai
+桧柏,gui'bai
+黑松,hei'song
+华山松,hua'shan'song
+辽东冷杉,liao'dong'leng'shan
+千头柏,qian'tou'bai
+乔松,qiao'song
+日本扁柏,ri'ben'bian'bai
+日本花柏,ri'ben'hua'bai
+油松,you'song
+云杉,yun'shan

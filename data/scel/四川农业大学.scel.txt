@@ -1,0 +1,5 @@
+成都校区,cheng'du'xiao'qu
+都江堰校区,du'jiang'yan'xiao'qu
+四川农业大学,si'chuan'nong'ye'da'xue
+雅安校区,ya'an'xiao'qu
+研究所,yan'jiu'suo

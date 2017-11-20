@@ -1,0 +1,5 @@
+高考志愿,gao'kao'zhi'yuan
+省属学校,sheng'shu'xue'xiao
+学校,xue'xiao
+医学院,yi'xue'yuan
+专科,zhuan'ke

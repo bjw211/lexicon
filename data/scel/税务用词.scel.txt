@@ -1,0 +1,11 @@
+发票管理,fa'piao'guan'li
+纳税检查,na'shui'jian'cha
+纳税评估,na'shui'ping'gu
+税收分析,shui'shou'fen'xi
+税务登记证,shui'wu'deng'ji'zheng
+税务管理,shui'wu'guan'li
+税务稽查,shui'wu'ji'cha
+土地增值税,tu'di'zeng'zhi'shui
+行政执法,xing'zheng'zhi'fa
+增值税,zeng'zhi'shui
+滞纳金,zhi'na'jin

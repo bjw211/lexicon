@@ -1,0 +1,5 @@
+长裙,chang'qun
+短裤,duan'ku
+短靴,duan'xue
+裤子,ku'zi
+帽子,mao'zi

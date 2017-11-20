@@ -1,0 +1,5 @@
+海洋学院,hai'yang'xue'yuan
+计算机系,ji'suan'ji'xi
+美术系,mei'shu'xi
+土建系,tu'jian'xi
+中文系,zhong'wen'xi

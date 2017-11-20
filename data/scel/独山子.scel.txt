@@ -1,0 +1,11 @@
+大庆路,da'qing'lu
+独山子,du'shan'zi
+惠明市场,hui'ming'shi'chang
+炼油厂,lian'you'chang
+石化大道,shi'hua'da'dao
+天利高新,tian'li'gao'xin
+武昌路,wu'chang'lu
+武昌路市场,wu'chang'lu'shi'chang
+乙烯厂,yi'xi'chang
+油城路,you'cheng'lu
+准南路市场,zhun'nan'lu'shi'chang

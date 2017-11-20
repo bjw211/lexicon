@@ -1,0 +1,11 @@
+边牧,bian'mu
+髌骨脱位,bin'gu'tuo'wei
+宠物,chong'wu
+宠物医生,chong'wu'yi'sheng
+宠物医师,chong'wu'yi'shi
+德国牧羊犬,de'guo'mu'yang'quan
+髋关节发育不良,kuan'guan'jie'fa'yu'bu'liang
+乳腺肿瘤,ru'xian'zhong'liu
+兽医,shou'yi
+泰迪,tai'di
+执业兽医,zhi'ye'shou'yi

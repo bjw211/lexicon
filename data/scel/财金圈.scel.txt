@@ -1,0 +1,9 @@
+北京,bei'jing
+财经,cai'jing
+管理,guan'li
+厚泽贷,hou'ze'dai
+金融,jin'rong
+理财,li'cai
+社交,she'jiao
+投资,tou'zi
+中央财经大学,zhong'yang'cai'jing'da'xue

@@ -1,0 +1,6 @@
+焊接,han'jie
+激光,ji'guang
+机加,ji'jia
+气割,qi'ge
+铣孔,xi'kong
+压型,ya'xing

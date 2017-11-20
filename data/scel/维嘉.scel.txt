@@ -1,0 +1,5 @@
+成语,cheng'yu
+单位,dan'wei
+地名,di'ming
+姓名,xing'ming
+一般词语,yi'ban'ci'yu

@@ -1,0 +1,8 @@
+电烤炉,dian'kao'lu
+电烤盘,dian'kao'pan
+家庭烧烤,jia'ting'shao'kao
+克来比,ke'lai'bi
+克来比电烤炉,ke'lai'bi'dian'kao'lu
+克来比烤炉,ke'lai'bi'kao'lu
+克来比烧烤炉,ke'lai'bi'shao'kao'lu
+双层烤炉,shuang'ceng'kao'lu

@@ -1,0 +1,9 @@
+工具栏,gong'ju'lan
+矩形选框工具,ju'xing'xuan'kuang'gong'ju
+情人清凉凉,qing'ren'qing'liang'liang
+图层,tu'ceng
+椭圆选框工具,tuo'yuan'xuan'kuang'gong'ju
+位图,wei'tu
+像素,xiang'su
+选框工具,xuan'kuang'gong'ju
+移动工具,yi'dong'gong'ju

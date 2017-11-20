@@ -1,0 +1,6 @@
+警铃,jing'ling
+控制接口,kong'zhi'jie'kou
+控制接口箱,kong'zhi'jie'kou'xiang
+控制模块,kong'zhi'mo'kuai
+控制盘,kong'zhi'pan
+手报,shou'bao

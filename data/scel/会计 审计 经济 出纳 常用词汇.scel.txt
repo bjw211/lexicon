@@ -1,0 +1,10 @@
+待摊投资,dai'tan'tou'zi
+负债,fu'zhai
+利润表,li'run'biao
+损益表,sun'yi'biao
+现金,xian'jin
+应付工资,ying'fu'gong'zi
+应付账款,ying'fu'zhang'kuan
+应收账款,ying'shou'zhang'kuan
+资产,zi'chan
+资产负债表,zi'chan'fu'zhai'biao

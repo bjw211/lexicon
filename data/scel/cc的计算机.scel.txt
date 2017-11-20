@@ -1,0 +1,4 @@
+计算机的发展经历了四代,ji'suan'ji'de'fa'zhan'jing'li'le'si'dai
+模拟声音信号需要通过采样量化,mo'ni'sheng'yin'xin'hao'xu'yao'tong'guo'cai'yang'liang'hua
+设有一幅色的图像大小为像素,she'you'yi'fu'se'de'tu'xiang'da'xiao'wei'xiang'su
+数据压缩主要应用于存储传输,shu'ju'ya'suo'zhu'yao'ying'yong'yu'cun'chu'chuan'shu

@@ -1,0 +1,5 @@
+村名,cun'ming
+福建省,fu'jian'sheng
+家乡,jia'xiang
+坎里村,kan'li'cun
+小村庄,xiao'cun'zhuang

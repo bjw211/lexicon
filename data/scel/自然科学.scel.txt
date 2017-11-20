@@ -1,0 +1,5 @@
+化学,hua'xue
+农业科学,nong'ye'ke'xue
+数学,shu'xue
+信息科学,xin'xi'ke'xue
+自然科学,zi'ran'ke'xue

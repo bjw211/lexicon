@@ -1,0 +1,13 @@
+定边县,ding'bian'xian
+府谷县,fu'gu'xian
+横山县,heng'shan'xian
+佳县,jia'xian
+靖边县,jing'bian'xian
+米脂县,mi'zhi'xian
+清涧县,qing'jian'xian
+神木县,shen'mu'xian
+绥德县,sui'de'xian
+吴堡县,wu'bao'xian
+榆阳区,yu'yang'qu
+镇北台,zhen'bei'tai
+子洲县,zi'zhou'xian

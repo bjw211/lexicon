@@ -1,0 +1,7 @@
+宝石,bao'shi
+红宝石,hong'bao'shi
+结晶,jie'jing
+晶体,jing'ti
+玉石,yu'shi
+珠宝,zhu'bao
+钻石,zuan'shi

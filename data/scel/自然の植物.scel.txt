@@ -1,0 +1,7 @@
+地衣,di'yi
+灌木,guan'mu
+蕨类,jue'lei
+绿藻,lv'zao
+青草,qing'cao
+树木,shu'mu
+藤类,teng'lei

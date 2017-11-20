@@ -1,0 +1,5 @@
+大学,da'xue
+工科,gong'ke
+济南,ji'nan
+建筑,jian'zhu
+山东,shan'dong

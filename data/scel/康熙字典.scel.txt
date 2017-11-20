@@ -1,0 +1,6 @@
+地理,di'li
+古文,gu'wen
+科学,ke'xue
+人文,ren'wen
+天文,tian'wen
+玄学,xuan'xue

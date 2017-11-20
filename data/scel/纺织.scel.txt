@@ -1,0 +1,6 @@
+甲经,jia'jing
+甲纬,jia'wei
+经纱,jing'sha
+纬纱,wei'sha
+乙经,yi'jing
+乙纬,yi'wei

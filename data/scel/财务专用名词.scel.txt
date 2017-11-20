@@ -1,0 +1,5 @@
+财务,cai'wu
+财务管理,cai'wu'guan'li
+财务关系,cai'wu'guan'xi
+财务活动,cai'wu'huo'dong
+公司价值,gong'si'jia'zhi

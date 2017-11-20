@@ -1,0 +1,6 @@
+车名,che'ming
+车型,che'xing
+名称,ming'cheng
+汽车,qi'che
+硬派,ying'pai
+越野,yue'ye

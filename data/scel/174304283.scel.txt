@@ -1,0 +1,7 @@
+产地,chan'di
+商品名,shang'pin'ming
+通用名,tong'yong'ming
+西药名,xi'yao'ming
+药品名称,yao'pin'ming'cheng
+医药公司,yi'yao'gong'si
+中药名,zhong'yao'ming

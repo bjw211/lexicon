@@ -1,0 +1,6 @@
+安全策略在本地计算机,an'quan'ce'lue'zai'ben'di'ji'suan'ji
+本地策略,ben'di'ce'lue
+公钥策略,gong'yue'ce'lue
+名称,ming'cheng
+软件限制策略,ruan'jian'xian'zhi'ce'lue
+帐户策略,zhang'hu'ce'lue

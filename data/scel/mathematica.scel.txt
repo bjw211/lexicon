@@ -1,0 +1,7 @@
+表达式的查阅保存和文件输入,biao'da'shi'de'cha'yue'bao'cun'he'wen'jian'shu'ru
+常用符号与常数,chang'yong'fu'hao'yu'chang'shu
+常用数学函数,chang'yong'shu'xue'han'shu
+常用系统操作与运算函数,chang'yong'xi'tong'cao'zuo'yu'yun'suan'han'shu
+程序与编程,cheng'xu'yu'bian'cheng
+起步,qi'bu
+数变量函数算式和表,shu'bian'liang'han'shu'suan'shi'he'biao

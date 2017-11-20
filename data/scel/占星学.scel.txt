@@ -1,0 +1,12 @@
+白羊,bai'yang
+处女,chu'nv
+金牛,jin'niu
+巨蟹,ju'xie
+摩羯,mo'jie
+射手,she'shou
+狮子,shi'zi
+双鱼,shuang'yu
+双子,shuang'zi
+水瓶,shui'ping
+天秤,tian'cheng
+天蝎,tian'xie

@@ -1,0 +1,9 @@
+动态聚类,dong'tai'ju'lei
+共轭先验,gong'e'xian'yan
+机器学习,ji'qi'xue'xi
+离散聚类,li'san'ju'lei
+无限离散,wu'xian'li'san
+学习,xue'xi
+在线聚类,zai'xian'ju'lei
+智能算法,zhi'neng'suan'fa
+最大熵学习,zui'da'shang'xue'xi

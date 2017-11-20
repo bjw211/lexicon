@@ -1,0 +1,16 @@
+场景漫游,chang'jing'man'you
+骨骼跟踪,gu'ge'gen'zong
+骨骼帧,gu'ge'zhen
+行号,hang'hao
+霍尔特指数,huo'er'te'zhi'shu
+基于约束的,ji'yu'yue'shu'de
+平滑参数,ping'hua'can'shu
+前后帧,qian'hou'zhen
+驱动算法,qu'dong'suan'fa
+四元数,si'yuan'shu
+特征建模,te'zheng'jian'mo
+虚拟样机,xu'ni'yang'ji
+帧丢失,zhen'diu'shi
+帧抖动,zhen'dou'dong
+帧缺失,zhen'que'shi
+装配序列,zhuang'pei'xu'lie

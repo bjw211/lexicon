@@ -1,0 +1,9 @@
+两直线平行,liang'zhi'xian'ping'xing
+两直线平行内错角相等,liang'zhi'xian'ping'xing'nei'cuo'jiao'xiang'deng
+两直线平行同位角相等,liang'zhi'xian'ping'xing'tong'wei'jiao'xiang'deng
+菱形,ling'xing
+内错角,nei'cuo'jiao
+平行四边形,ping'xing'si'bian'xing
+三角形,san'jiao'xing
+四边形,si'bian'xing
+同位角,tong'wei'jiao

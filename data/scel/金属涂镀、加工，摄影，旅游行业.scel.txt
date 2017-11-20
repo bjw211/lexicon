@@ -1,0 +1,11 @@
+标准,biao'zhun
+彩色涂层钢板,cai'se'tu'ceng'gang'ban
+彩涂板,cai'tu'ban
+光圈,guang'quan
+辊速,gun'su
+膜厚,mo'hou
+速度,su'du
+特性,te'xing
+涂层,tu'ceng
+线速,xian'su
+性能,xing'neng

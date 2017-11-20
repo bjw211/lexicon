@@ -1,0 +1,6 @@
+钯金,ba'jin
+铂金,bo'jin
+现货白银,xian'huo'bai'yin
+现货沥青,xian'huo'li'qing
+现货铜,xian'huo'tong
+现货原油,xian'huo'yuan'you

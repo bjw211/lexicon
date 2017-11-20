@@ -1,0 +1,9 @@
+粗轧除鳞机,cu'zha'chu'lin'ji
+粗轧机,cu'zha'ji
+飞剪,fei'jian
+精轧除鳞机,jing'zha'chu'lin'ji
+精轧机,jing'zha'ji
+卷曲机,juan'qu'ji
+热卷箱,re'juan'xiang
+热送辊道,re'song'gun'dao
+上料辊道,shang'liao'gun'dao

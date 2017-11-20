@@ -1,0 +1,8 @@
+防御,fang'yu
+夹击,jia'ji
+近战,jin'zhan
+快闪,kuai'shan
+买卖,mai'mai
+上刀,shang'dao
+通商交换,tong'shang'jiao'huan
+远攻,yuan'gong

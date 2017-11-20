@@ -1,0 +1,17 @@
+耙吸船,ba'xi'chuan
+斗式船,dou'shi'chuan
+港池,gang'chi
+钢桩,gang'zhuang
+管线,guan'xian
+绞刀,jiao'dao
+绞吸船,jiao'xi'chuan
+链斗船,lian'dou'chuan
+泥泵,ni'beng
+排泥管线污染,pai'ni'guan'xian'wu'ran
+人工岛,ren'gong'dao
+疏浚,shu'jun
+水深,shui'shen
+挖泥,wa'ni
+挖泥船,wa'ni'chuan
+泄水口,xie'shui'kou
+抓斗船,zhua'dou'chuan

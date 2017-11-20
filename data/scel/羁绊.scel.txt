@@ -1,0 +1,6 @@
+福州,fu'zhou
+龙岩,long'yan
+莆田,pu'tian
+三明,san'ming
+厦门,xia'men
+漳州,zhang'zhou

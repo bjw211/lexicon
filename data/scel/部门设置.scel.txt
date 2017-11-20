@@ -1,0 +1,14 @@
+财务部,cai'wu'bu
+电器车间,dian'qi'che'jian
+公司办公室,gong'si'ban'gong'shi
+企管部,qi'guan'bu
+设备处,she'bei'chu
+审计处,shen'ji'chu
+生产部,sheng'chan'bu
+售后服务中心,shou'hou'fu'wu'zhong'xin
+外经贸公司,wai'jing'mao'gong'si
+销售公司,xiao'shou'gong'si
+研发部,yan'fa'bu
+质管部,zhi'guan'bu
+铸造厂,zhu'zao'chang
+总装厂,zong'zhuang'chang

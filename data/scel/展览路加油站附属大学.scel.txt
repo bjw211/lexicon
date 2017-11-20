@@ -1,0 +1,8 @@
+白楼,bai'lou
+大食堂,da'shi'tang
+红楼,hong'lou
+加油站,jia'you'zhan
+清真食堂,qing'zhen'shi'tang
+外院咖啡馆,wai'yuan'ka'fei'guan
+望岳楼,wang'yue'lou
+展览馆路,zhan'lan'guan'lu

@@ -1,0 +1,6 @@
+北京,bei'jing
+长安,chang'an
+成都,cheng'du
+洛阳,luo'yang
+南京,nan'jing
+西安,xi'an

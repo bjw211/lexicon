@@ -1,0 +1,7 @@
+报告厅,bao'gao'ting
+金松大礼堂,jin'song'da'li'tang
+开封大学学校名称,kai'feng'da'xue'xue'xiao'ming'cheng
+体育馆,ti'yu'guan
+图书馆,tu'shu'guan
+音乐厅,yin'yue'ting
+综合教学楼,zong'he'jiao'xue'lou

@@ -1,0 +1,11 @@
+比例,bi'li
+乘法,cheng'fa
+除法,chu'fa
+方程,fang'cheng
+分母,fen'mu
+分数,fen'shu
+分子,fen'zi
+加法,jia'fa
+减法,jian'fa
+行程,xing'cheng
+转化,zhuan'hua

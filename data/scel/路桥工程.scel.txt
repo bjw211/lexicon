@@ -1,0 +1,12 @@
+空心板,kong'xin'ban
+梁板,liang'ban
+路基,lu'ji
+路面,lu'mian
+墙身,qiang'shen
+桥面系,qiao'mian'xi
+台背,tai'bei
+台帽,tai'mao
+箱梁,xiang'liang
+斜拉桥,xie'la'qiao
+预应力张拉,yu'ying'li'zhang'la
+支线上跨,zhi'xian'shang'kua

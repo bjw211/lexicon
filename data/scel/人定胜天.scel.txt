@@ -1,0 +1,7 @@
+当前打字速度字分钟,dang'qian'da'zi'su'du'zi'fen'zhong
+今日输入总字数字,jin'ri'shu'ru'zong'zi'shu'zi
+今天最快速度字分钟,jin'tian'zui'kuai'su'du'zi'fen'zhong
+历史最快速度字分钟,li'shi'zui'kuai'su'du'zi'fen'zhong
+数据统计区间共天,shu'ju'tong'ji'qu'jian'gong'tian
+输入总字数字,shu'ru'zong'zi'shu'zi
+搜狗拼音输入法输入统计数据,sou'gou'pin'yin'shu'ru'fa'shu'ru'tong'ji'shu'ju

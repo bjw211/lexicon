@@ -1,0 +1,5 @@
+变量,bian'liang
+对象,dui'xiang
+方法,fang'fa
+赋值,fu'zhi
+装换,zhuang'huan

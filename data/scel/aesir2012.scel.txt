@@ -1,0 +1,5 @@
+保险,bao'xian
+法律,fa'lv
+金融,jin'rong
+信托,xin'tuo
+银行,yin'hang

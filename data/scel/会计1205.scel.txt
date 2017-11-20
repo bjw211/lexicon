@@ -1,0 +1,5 @@
+财务村民数据,cai'wu'cun'min'shu'ju
+常用词语句,chang'yong'ci'yu'ju
+村名,cun'ming
+地名,di'ming
+数据,shu'ju

@@ -1,0 +1,12 @@
+粉煤灰砖,fen'mei'hui'zhuan
+灰砂砖,hui'sha'zhuan
+机沙,ji'sha
+空心砖,kong'xin'zhuan
+卵石,luan'shi
+盲道砖,mang'dao'zhuan
+粘土砖,nian'tu'zhuan
+商砼,shang'tong
+水泥,shui'ni
+水泥砖,shui'ni'zhuan
+碎石,sui'shi
+通体铺地砖,tong'ti'pu'di'zhuan
